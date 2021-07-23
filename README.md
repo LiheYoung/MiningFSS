@@ -4,3 +4,6 @@ This is the official implementation of our paper [**Mining Latent Classes for Fe
 
 The source code will be released soon.
 
+<div align="center">
+  <img src="pipeline.png"/>
+</div>
