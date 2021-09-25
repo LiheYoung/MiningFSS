@@ -1,12 +1,11 @@
 # Mining Latent Classes for Few-shot Segmentation
 
-[Lihe Yang](https://github.com/LiheYoung), [Wei Zhuo](https://scholar.google.com.au/citations?user=Q-UjnzEAAAAJ&hl=zh-CN), [Lei Qi](http://palm.seu.edu.cn/qilei/), [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Yang Gao](https://cs.nju.edu.cn/gaoyang/)
+> [Lihe Yang](https://github.com/LiheYoung), [Wei Zhuo](https://scholar.google.com.au/citations?user=Q-UjnzEAAAAJ&hl=zh-CN), [Lei Qi](http://palm.seu.edu.cn/qilei/), [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Yang Gao](https://cs.nju.edu.cn/gaoyang/).
+
 
 ![](./docs/pipeline.png)
 
-
-
-The codebase contains baseline of our paper [Mining Latent Classes for Few-shot Segmentation](https://arxiv.org/abs/2103.15402), ICCV 2021 Oral.
+This codebase contains baseline of our paper [Mining Latent Classes for Few-shot Segmentation](https://arxiv.org/abs/2103.15402), ICCV 2021 Oral.
 
 Several key modifications to the simple yet effective metric learning framework:
 - Remove the final residual stage in ResNet for stronger generalization
@@ -16,8 +15,12 @@ Several key modifications to the simple yet effective metric learning framework:
 
 ## Environment
 
-- Python 3.7
-- PyTorch 1.3.0+
+This codebase was tested with the following environment configurations.
+
+- Ubuntu 18.04
+- CUDA 11.2
+- Python 3.7.4
+- PyTorch 1.6.0
 - Pillow, numpy, torchvision, tqdm
 - Two NVIDIA V100 GPUs
 
