@@ -1,12 +1,12 @@
 # Mining Latent Classes for Few-shot Segmentation
 
-*Lihe Yang, Wei Zhuo, Lei Qi, Yinghuan Shi, Yang Gao*
+[Lihe Yang](https://github.com/LiheYoung), [Wei Zhuo](https://scholar.google.com.au/citations?user=Q-UjnzEAAAAJ&hl=zh-CN), [Lei Qi](http://palm.seu.edu.cn/qilei/), [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Yang Gao](https://cs.nju.edu.cn/gaoyang/)
 
 ![](./docs/pipeline.png)
 
 
 
-This codebase contains the modified baseline of our paper [Mining Latent Classes for Few-shot Segmentation](https://arxiv.org/abs/2103.15402), ICCV 2021 Oral.
+The codebase contains baseline of our paper [Mining Latent Classes for Few-shot Segmentation](https://arxiv.org/abs/2103.15402), ICCV 2021 Oral.
 
 Some key modifications to the simple yet effective metric learning framework:
 - Remove the final residual stage in ResNet for stronger generalization
