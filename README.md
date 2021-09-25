@@ -68,7 +68,7 @@ change the `fold` from `0` to `1/2/3`, or change the `shot` from `1` to `5` for 
 ## Performance and Trained Models
 
 Here we report the performance of our modified baseline on Pascal.
-You can click on the numbers to download correponding trained models.
+You can click on the numbers to download corresponding trained models.
 
 The training time is measured on two V100 GPUs. 
 Compared with other works, our method is efficient to train.
