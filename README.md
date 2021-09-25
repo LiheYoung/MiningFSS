@@ -94,7 +94,7 @@ If you find this project useful for your research, please consider citing:
 @inproceedings{yang2021mining,
   title={Mining Latent Classes for Few-shot Segmentation},
   author={Yang, Lihe and Zhuo, Wei and Qi, Lei and Shi, Yinghuan and Gao, Yang},
-  journal={ICCV},
+  booktitle={ICCV},
   year={2021}
 }
 ```
