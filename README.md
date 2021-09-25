@@ -67,11 +67,11 @@ change the `fold` from `0` to `1/2/3`, or change the `shot` from `1` to `5` for 
 
 ## Performance and Trained Models
 
-We report the performance of our modified baseline on Pascal.
-The numbers can be clicked to download correponding models.
+Here we report the performance of our modified baseline on Pascal.
+You can click on the numbers to download correponding trained models.
 
-The training time is tested on two NVIDIA V100 GPUs. 
-Compared with existing works, our method is efficient to train.
+The training time is measured on two V100 GPUs. 
+Compared with other works, our method is efficient to train.
 
 | Setting |   Backbone  | Training time / fold | Fold 0 | Fold 1 | Fold 2 | Fold 3 |  Mean  |
 | :-----: | :---------: | :----: | :----: | :----: | :----: | :----: | :----: |
